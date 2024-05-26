@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89040024-0b07-4915-83b6-71906ff9fa33" name="Changes" comment="ads">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assig4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreadthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DijkstraSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WeightedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="89040024-0b07-4915-83b6-71906ff9fa33" name="Changes" comment="ads" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +45,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,8 +58,33 @@
       <option name="presentableId" value="Default" />
       <updated>1716667024150</updated>
       <workItem from="1716667025211" duration="269000" />
-      <workItem from="1716713114849" duration="658000" />
+      <workItem from="1716713114849" duration="972000" />
     </task>
+    <task id="LOCAL-00001" summary="ads">
+      <option name="closed" value="true" />
+      <created>1716713887922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716713887922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ads">
+      <option name="closed" value="true" />
+      <created>1716713899169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716713899169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ads">
+      <option name="closed" value="true" />
+      <created>1716714080677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716714080677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
